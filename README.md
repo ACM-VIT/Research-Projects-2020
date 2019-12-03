@@ -13,3 +13,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x]  Pokedex [Computer Vision] [Machine Learning]
 - Eesha Shetty, June 2019
+
+- [x] Restaurant Bot [NLP] [Machine Learning]
+- Iishi Patel, May 2019
