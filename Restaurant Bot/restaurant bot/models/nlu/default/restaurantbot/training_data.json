@@ -1,0 +1,257 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "Hi"
+      },
+      {
+        "intent": "greet",
+        "text": "Hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "Hey"
+      },
+      {
+        "intent": "book",
+        "entities": [
+          {
+            "start": 10,
+            "end": 11,
+            "value": "2",
+            "entity": "number_of_people"
+          }
+        ],
+        "text": "table for 2"
+      },
+      {
+        "intent": "book",
+        "entities": [
+          {
+            "start": 22,
+            "end": 23,
+            "value": "7",
+            "entity": "number_of_people"
+          }
+        ],
+        "text": "make reservations for 7"
+      },
+      {
+        "intent": "book",
+        "entities": [
+          {
+            "start": 22,
+            "end": 23,
+            "value": "4",
+            "entity": "number_of_people"
+          }
+        ],
+        "text": "make reservations for 4"
+      },
+      {
+        "intent": "book",
+        "entities": [
+          {
+            "start": 15,
+            "end": 16,
+            "value": "6",
+            "entity": "number_of_people"
+          }
+        ],
+        "text": "book table for 6"
+      },
+      {
+        "intent": "book",
+        "entities": [
+          {
+            "start": 18,
+            "end": 19,
+            "value": "7",
+            "entity": "no_of_people"
+          }
+        ],
+        "text": "reserve table for 7"
+      },
+      {
+        "intent": "book",
+        "entities": [
+          {
+            "start": 25,
+            "end": 26,
+            "value": "8",
+            "entity": "number_of_people"
+          }
+        ],
+        "text": "can you book a table for 8"
+      },
+      {
+        "intent": "book",
+        "entities": [
+          {
+            "start": 27,
+            "end": 28,
+            "value": "9",
+            "entity": "number_of_people"
+          }
+        ],
+        "text": "please reserve a table for 9"
+      },
+      {
+        "intent": "time",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "7 pm",
+            "entity": "time"
+          }
+        ],
+        "text": "7 pm"
+      },
+      {
+        "intent": "time",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "8 am",
+            "entity": "time"
+          }
+        ],
+        "text": "8 am"
+      },
+      {
+        "intent": "time",
+        "entities": [
+          {
+            "start": 0,
+            "end": 4,
+            "value": "7 pm",
+            "entity": "time"
+          }
+        ],
+        "text": "7 pm"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "today",
+            "entity": "date"
+          }
+        ],
+        "text": "today"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "tomorrow",
+            "entity": "date"
+          }
+        ],
+        "text": "tomorrow"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "tonight",
+            "entity": "date"
+          }
+        ],
+        "text": "tonight"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "day after tomorrow",
+            "entity": "date"
+          }
+        ],
+        "text": "day after tomorrow"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "12/07/2019",
+            "entity": "date"
+          }
+        ],
+        "text": "12/07/2019"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "today",
+            "entity": "date"
+          }
+        ],
+        "text": "today"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "27 th july",
+            "entity": "date"
+          }
+        ],
+        "text": "27 th july"
+      },
+      {
+        "intent": "when",
+        "entities": [
+          {
+            "start": 0,
+            "end": 8,
+            "value": "8 th may",
+            "entity": "date"
+          }
+        ],
+        "text": "8 th may"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}

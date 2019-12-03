@@ -1,0 +1,39 @@
+%YAML 1.1
+---
+actions:
+- utter_time
+- utter_booking_confirmation
+- utter_unclear
+- utter_when
+- utter_greeting
+- utter_thankyou
+- action_confirmation
+entities:
+- time
+- date
+- number_of_people
+intents:
+- time
+- when
+- book
+- greet
+slots:
+  date:
+    type: text
+  number_of_people:
+    type: text
+  time:
+    type: text
+  
+templates:
+  utter_greeting:
+  - text: Welcome to Iishi's restaurant ! How can I help you ?
+  utter_thankyou:
+  - text: Thank You for using our services ! See you again soon !
+  utter_time:
+  - text: For what time ?
+  utter_unclear:
+  - text: I am not sure what you are aiming for.Kindly try it again
+  utter_when:
+  - text: For when do you want me to book it ?
+  

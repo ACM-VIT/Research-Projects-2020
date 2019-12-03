@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Iishi\\Documents\\RASA-projects-master\\RASA-projects-master\\restaurant bot\\./models/nlu\\default\\restaurantbot\\component_6_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Iishi\\Documents\\RASA-projects-master\\RASA-projects-master\\restaurant bot\\./models/nlu\\default\\restaurantbot\\component_6_EmbeddingIntentClassifier.ckpt"

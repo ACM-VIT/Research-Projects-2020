@@ -1,0 +1,29 @@
+{
+  "states": [
+    "intent_book",
+    "intent_greet",
+    "intent_time",
+    "intent_when",
+    "entity_time",
+    "entity_date",
+    "entity_number_of_people",
+    "slot_date_0",
+    "slot_number_of_people_0",
+    "slot_time_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_action_deactivate_form",
+    "prev_action_revert_fallback_events",
+    "prev_action_default_ask_affirmation",
+    "prev_action_default_ask_rephrase",
+    "prev_action_back",
+    "prev_utter_time",
+    "prev_utter_booking_confirmation",
+    "prev_utter_unclear",
+    "prev_utter_when",
+    "prev_utter_greeting",
+    "prev_utter_thankyou",
+    "prev_action_confirmation"
+  ]
+}
