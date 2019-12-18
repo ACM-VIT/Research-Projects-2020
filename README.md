@@ -17,5 +17,10 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Restaurant Bot [NLP] [Machine Learning]
 - Iishi Patel, May 2019
 
-- [x] Object Detection- Coins [Computer Vision]
-- Iishi Patel, March 2019 
+- [x] Face and Eye detection- Haar Cascade [Computer Vision]
+- Jerelyn P. Premjit, September 2019 
+
+- [x] YOLOv3 Object Detection- for Images(using coco) [Computer Vision]
+- Jerelyn P. Premjit, November 2019 
+
+
