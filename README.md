@@ -19,3 +19,9 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] Object Detection- Coins [Computer Vision]
 - Iishi Patel, March 2019 
+
+- [x] Face and eye detection + (optional blur)- HaarCascade [Computer Vision]
+- Jerelyn P. Premjit, September 2019
+
+- [x] YOLOv3 Object Detection- For Images using coco [Computer Vision]
+- Jerelyn P. Premjit, November 2019 
