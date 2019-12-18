@@ -25,3 +25,20 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] YOLOv3 Object Detection- For Images using coco +(selective blur) [Computer Vision]
 - Jerelyn P. Premjit, November 2019 
+
+- [x] Market Basket [Machine Learning]
+- Hrishita Chakrabarti, April 2019
+
+- [x] Restaurant Reviews Sentiment Anlysis [NLP] [Machine Learning]
+- Hrishita Chakrabarti, May 2019
+
+- [x] Bank Churn Model [Deep Learning]
+- Hrishita Chakrabarti, May 2019
+
+- [x] Motion Detection using openCV [Computer Vision]
+- Hrishita Chakrabarti, October 2019
+
+- [x] Shape Detection [Computer Vision]
+- Hrishita Chakrabarti, October, 2019
+
+
