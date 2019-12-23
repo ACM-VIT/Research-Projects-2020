@@ -41,4 +41,4 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Shape Detection [Computer Vision]
 - Hrishita Chakrabarti, October, 2019
 
-
+-[ ] Finding Frauds [Machine Learning]
