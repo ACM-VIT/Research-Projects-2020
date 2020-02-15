@@ -1,2 +1,2 @@
-[-]Link to the Dataset can be accessed from this link >> https://www.kaggle.com/ntnu-testimon/paysim1/data
+[-]Link to the Dataset can be accessed from this link >> https://www.kaggle.com/ntnu-testimon/paysim1/data .
 [-]In this Model I use Logistic Regression which achieves 0.9988762490923551 accuracy.
