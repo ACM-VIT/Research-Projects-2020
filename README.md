@@ -1,5 +1,5 @@
-# Research Projects 2019
-A collection of all projects done by the Research 2019 team.
+# Research Projects
+A collection of all projects done by the Research 2019-2020 team.
 
 Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks. 
 
@@ -41,4 +41,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Shape Detection [Computer Vision]
 - Hrishita Chakrabarti, October, 2019
 
+- [x] Fraud Dectection [Machine Learning]
+- Aryan Vats, February 2020
 
