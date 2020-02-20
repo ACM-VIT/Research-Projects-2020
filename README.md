@@ -44,6 +44,9 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Fraud Dectection [Machine Learning]
 - Aryan Vats, February 2020
 
+- [x] Kaggle LSST Data Challenge [Data Analysis, Deep Learning]
+- Himadri Sankar Chatterjee, February 2020
+
 - [x] Diamonds Price Prediction [Machine Learning]
 - Vivek Gereesan, February 2020
 
