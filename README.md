@@ -52,3 +52,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] Sentiment Analysis using NLTK [Machine Learning]
 - Vinamra Khoria,  February 2020
+
+- [x] Text Summarizer [Machine Learning]
+- Vinamra Khoria,  March 2020
