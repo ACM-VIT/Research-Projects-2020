@@ -52,3 +52,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] Sentiment Analysis using NLTK [Machine Learning]
 - Vinamra Khoria,  February 2020
+
+- [x] Cats vs Dogs Classifier using Conv-Nets [Computer Vision]
+- Rohan Nolan Lasrado, March 2020
