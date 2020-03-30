@@ -44,3 +44,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Fraud Dectection [Machine Learning]
 - Aryan Vats, February 2020
 
+- [x] Stock Price Prediciton [Machine Learning]
+- Aryan Vats, March 2020
+
