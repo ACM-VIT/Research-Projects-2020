@@ -44,6 +44,9 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Fraud Dectection [Machine Learning]
 - Aryan Vats, February 2020
 
+- [x] Stock Price Prediciton [Machine Learning]
+- Aryan Vats, March 2020
+
 - [x] Kaggle LSST Data Challenge [Data Analysis, Deep Learning]
 - Himadri Sankar Chatterjee, February 2020
 
@@ -53,8 +56,13 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Sentiment Analysis using NLTK [Machine Learning]
 - Vinamra Khoria,  February 2020
 
+- [x] Text Summarizer [Machine Learning]
+- Vinamra Khoria,  March 2020
+
 - [x] Cats vs Dogs Classifier using Conv-Nets [Computer Vision]
 - Rohan Nolan Lasrado, March 2020
 
 - [x] Image Classifier to Identify Digits [Deep Learning]
 - Aditya Nalini, March 2020
+
+
