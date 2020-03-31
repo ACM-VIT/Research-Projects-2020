@@ -1,5 +1,5 @@
 # Generating Anime Faces using GAN
-### Himadri Sanakr Chatterjee (ACM VIT | Research)
+### Himadri Sankar Chatterjee (ACM VIT | Research)
 This is a simple implementation of the Generative Adversarial Network using Keras (Tensorflow backend) to generate Anime character faces.
 This is just to understand the basic working of the network.
 Due to unavailability of high computing resources, the training has been done in Google Colabs. I was able to train upto 40000 epochs before
