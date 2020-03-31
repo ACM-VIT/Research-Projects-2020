@@ -55,3 +55,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] Text Summarizer [Machine Learning]
 - Vinamra Khoria,  March 2020
+
+- [x] Cats vs Dogs Classifier using Conv-Nets [Computer Vision]
+- Rohan Nolan Lasrado, March 2020
