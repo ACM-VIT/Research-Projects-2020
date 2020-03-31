@@ -52,6 +52,8 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] Diamonds Price Prediction [Machine Learning]
 - Vivek Gereesan, February 2020
+-[x] Titanic Survivors Prediction [Machine Learning]
+-Vivek Gereesan, March 2020
 
 - [x] Sentiment Analysis using NLTK [Machine Learning]
 - Vinamra Khoria,  February 2020
