@@ -62,3 +62,7 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Cats vs Dogs Classifier using Conv-Nets [Computer Vision]
 - Rohan Nolan Lasrado, March 2020
 
+- [x] Image Classifier to Identify Digits [Deep Learning]
+- Aditya Nalini, March 2020
+
+
