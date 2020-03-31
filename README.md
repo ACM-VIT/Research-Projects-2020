@@ -44,6 +44,9 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Fraud Dectection [Machine Learning]
 - Aryan Vats, February 2020
 
+- [x] Stock Price Prediciton [Machine Learning]
+- Aryan Vats, March 2020
+
 - [x] Kaggle LSST Data Challenge [Data Analysis, Deep Learning]
 - Himadri Sankar Chatterjee, February 2020
 
@@ -58,3 +61,4 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 
 - [x] Cats vs Dogs Classifier using Conv-Nets [Computer Vision]
 - Rohan Nolan Lasrado, March 2020
+
