@@ -67,9 +67,13 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Image Classifier to Identify Digits [Deep Learning]
 - Aditya Nalini, March 2020
 
+- [x] BlackJack Outcome Predictor [Machine Learning]
+- Rohan Sirohia, April 2020
+
 - [x] Distributed Password Cracker [Network Security]
 - Aayushi Varma, February 2020
 
 - [x] Keystroke Logger [Network Security]
 - Aayushi Varma, March 2020
+
 
