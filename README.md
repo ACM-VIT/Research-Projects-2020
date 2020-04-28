@@ -62,3 +62,6 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Cats vs Dogs Classifier using Conv-Nets [Computer Vision]
 - Rohan Nolan Lasrado, March 2020
 
+- [x] RealTime Weather Prediciton [Machine Learning]
+- Aryan Vats, April 2020
+
