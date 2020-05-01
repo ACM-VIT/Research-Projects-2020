@@ -47,6 +47,9 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Stock Price Prediciton [Machine Learning]
 - Aryan Vats, March 2020
 
+- [x] RealTime Weather Prediciton [Machine Learning]
+- Aryan Vats, April 2020
+
 - [x] Kaggle LSST Data Challenge [Data Analysis, Deep Learning]
 - Himadri Sankar Chatterjee, February 2020
 
