@@ -79,4 +79,5 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Keystroke Logger [Network Security]
 - Aayushi Varma, March 2020
 
-
+- [x] Stock Data Analysis [Machine Learning]
+- Rohan Nolan Lasrado, May 2020
