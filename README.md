@@ -49,5 +49,5 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 -[x] Titanic Survivors Prediction [Machine Learning]
 -Vivek Gereesan, March 2020
 
--[x] Image classifier to classify clothes[Deep Learning]
--Vivek Gereesan, June 2020
+- [x] Image classifier to classify clothes[Deep Learning]
+-  Vivek Gereesan, June 2020
