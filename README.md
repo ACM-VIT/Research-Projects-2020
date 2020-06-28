@@ -44,10 +44,48 @@ Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks.
 - [x] Fraud Dectection [Machine Learning]
 - Aryan Vats, February 2020
 
+- [x] Stock Price Prediciton [Machine Learning]
+- Aryan Vats, March 2020
+
+- [x] RealTime Weather Prediciton [Machine Learning]
+- Aryan Vats, April 2020
+
+- [x] Kaggle LSST Data Challenge [Data Analysis, Deep Learning]
+- Himadri Sankar Chatterjee, February 2020
+
 - [x] Diamonds Price Prediction [Machine Learning]
 - Vivek Gereesan, February 2020
--[x] Titanic Survivors Prediction [Machine Learning]
--Vivek Gereesan, March 2020
+
+- [x] Titanic Survivors Prediction [Machine Learning]
+- Vivek Gereesan, March 2020
 
 - [x] Image classifier to classify clothes[Deep Learning]
 -  Vivek Gereesan, June 2020
+
+- [x] Sentiment Analysis using NLTK [Machine Learning]
+- Vinamra Khoria,  February 2020
+
+- [x] Text Summarizer [Machine Learning]
+- Vinamra Khoria,  March 2020
+
+- [x] Cats vs Dogs Classifier using Conv-Nets [Computer Vision]
+- Rohan Nolan Lasrado, March 2020
+
+- [x] Image Classifier to Identify Digits [Deep Learning]
+- Aditya Nalini, March 2020
+
+- [x] BlackJack Outcome Predictor [Machine Learning]
+- Rohan Sirohia, April 2020
+
+- [x] Distributed Password Cracker [Network Security]
+- Aayushi Varma, February 2020
+
+- [x] Keystroke Logger [Network Security]
+- Aayushi Varma, March 2020
+
+- [x] Stock Data Analysis [Machine Learning]
+- Rohan Nolan Lasrado, May 2020
+
+- [x] Generative Face Completion [Computer Vision]
+- Rohan Nolan Lasrado, June 2020
+
