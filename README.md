@@ -12,7 +12,7 @@ A collection of all projects done by the Research 2019-2020 team.
 
 ---
 
-Refer to CONTRIBUTING.md regarding adding your own projects or adding new tasks. 
+Refer to [CONTRIBUTING.md](https://github.com/ACM-VIT/Research-Projects-2020/blob/master/CONTRIBUTING.md) regarding adding your own projects or adding new tasks. 
 
 ---
 
