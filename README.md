@@ -34,12 +34,12 @@ git merge
 
 ## Projects
 
-#### Machine Learning
-#### Deep Learning
-#### Computer Vision
-#### NLP
-#### Network Security
-#### Advanced Projects
+#### [Machine Learning](https://github.com/ACM-VIT/Research-Projects-2020/tree/master/Machine%20Learning)
+#### [Deep Learning](https://github.com/ACM-VIT/Research-Projects-2020/tree/master/Deep%20Learning)
+#### [Computer Vision](https://github.com/ACM-VIT/Research-Projects-2020/tree/master/Computer%20Vision)
+#### [NLP](https://github.com/ACM-VIT/Research-Projects-2020/tree/master/NLP)
+#### [Network Security](https://github.com/ACM-VIT/Research-Projects-2020/tree/master/Network%20Security)
+#### [Advanced Projects](https://github.com/ACM-VIT/Research-Projects-2020/tree/master/Advanced%20Projects)
 
 ---
 
