@@ -22,7 +22,7 @@ Lets get started!
 
 ```console
 
-git remote add
+git remote add https://github.com/ACM-VIT/Research-Projects-2020.git
 
 git fetch
 
