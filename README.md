@@ -43,7 +43,7 @@ git merge
 
 ---
 
-### Contributors <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
+## Contributors <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
 <a href="https://github.com/ACM-VIT/Research-Projects-2020/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/Research-Projects-2020" />
 </a>
