@@ -21,12 +21,9 @@ Refer to [CONTRIBUTING.md](https://github.com/ACM-VIT/Research-Projects-2020/blo
 Lets get started!
 
 ```console
+# clone the repository to your machine by:
+git clone https://github.com/ACM-VIT/Research-Projects-2020.git
 
-git remote add https://github.com/ACM-VIT/Research-Projects-2020.git
-
-git fetch
-
-git merge
 
 ```
 
